@@ -1,0 +1,14 @@
+D:\Class\SU25\PRN212\Code\PRN212-SE1848\FIrstDegree\bin\Debug\net9.0\FIrstDegree.exe
+D:\Class\SU25\PRN212\Code\PRN212-SE1848\FIrstDegree\bin\Debug\net9.0\FIrstDegree.deps.json
+D:\Class\SU25\PRN212\Code\PRN212-SE1848\FIrstDegree\bin\Debug\net9.0\FIrstDegree.runtimeconfig.json
+D:\Class\SU25\PRN212\Code\PRN212-SE1848\FIrstDegree\bin\Debug\net9.0\FIrstDegree.dll
+D:\Class\SU25\PRN212\Code\PRN212-SE1848\FIrstDegree\bin\Debug\net9.0\FIrstDegree.pdb
+D:\Class\SU25\PRN212\Code\PRN212-SE1848\FIrstDegree\obj\Debug\net9.0\FIrstDegree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Class\SU25\PRN212\Code\PRN212-SE1848\FIrstDegree\obj\Debug\net9.0\FIrstDegree.AssemblyInfoInputs.cache
+D:\Class\SU25\PRN212\Code\PRN212-SE1848\FIrstDegree\obj\Debug\net9.0\FIrstDegree.AssemblyInfo.cs
+D:\Class\SU25\PRN212\Code\PRN212-SE1848\FIrstDegree\obj\Debug\net9.0\FIrstDegree.csproj.CoreCompileInputs.cache
+D:\Class\SU25\PRN212\Code\PRN212-SE1848\FIrstDegree\obj\Debug\net9.0\FIrstDegree.dll
+D:\Class\SU25\PRN212\Code\PRN212-SE1848\FIrstDegree\obj\Debug\net9.0\refint\FIrstDegree.dll
+D:\Class\SU25\PRN212\Code\PRN212-SE1848\FIrstDegree\obj\Debug\net9.0\FIrstDegree.pdb
+D:\Class\SU25\PRN212\Code\PRN212-SE1848\FIrstDegree\obj\Debug\net9.0\FIrstDegree.genruntimeconfig.cache
+D:\Class\SU25\PRN212\Code\PRN212-SE1848\FIrstDegree\obj\Debug\net9.0\ref\FIrstDegree.dll
