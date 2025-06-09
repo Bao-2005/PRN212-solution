@@ -1,0 +1,15 @@
+D:\Class\SU25\PRN212\Code\PRN212-SE1848\DemoLINQToObjectModelClass\bin\Debug\net9.0\DemoLINQToObjectModelClass.exe
+D:\Class\SU25\PRN212\Code\PRN212-SE1848\DemoLINQToObjectModelClass\bin\Debug\net9.0\DemoLINQToObjectModelClass.deps.json
+D:\Class\SU25\PRN212\Code\PRN212-SE1848\DemoLINQToObjectModelClass\bin\Debug\net9.0\DemoLINQToObjectModelClass.runtimeconfig.json
+D:\Class\SU25\PRN212\Code\PRN212-SE1848\DemoLINQToObjectModelClass\bin\Debug\net9.0\DemoLINQToObjectModelClass.dll
+D:\Class\SU25\PRN212\Code\PRN212-SE1848\DemoLINQToObjectModelClass\bin\Debug\net9.0\DemoLINQToObjectModelClass.pdb
+D:\Class\SU25\PRN212\Code\PRN212-SE1848\DemoLINQToObjectModelClass\obj\Debug\net9.0\DemoLINQToObjectModelClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Class\SU25\PRN212\Code\PRN212-SE1848\DemoLINQToObjectModelClass\obj\Debug\net9.0\DemoLINQToObjectModelClass.AssemblyInfoInputs.cache
+D:\Class\SU25\PRN212\Code\PRN212-SE1848\DemoLINQToObjectModelClass\obj\Debug\net9.0\DemoLINQToObjectModelClass.AssemblyInfo.cs
+D:\Class\SU25\PRN212\Code\PRN212-SE1848\DemoLINQToObjectModelClass\obj\Debug\net9.0\DemoLINQToObjectModelClass.csproj.CoreCompileInputs.cache
+D:\Class\SU25\PRN212\Code\PRN212-SE1848\DemoLINQToObjectModelClass\obj\Debug\net9.0\DemoLINQToObjectModelClass.sourcelink.json
+D:\Class\SU25\PRN212\Code\PRN212-SE1848\DemoLINQToObjectModelClass\obj\Debug\net9.0\DemoLINQToObjectModelClass.dll
+D:\Class\SU25\PRN212\Code\PRN212-SE1848\DemoLINQToObjectModelClass\obj\Debug\net9.0\refint\DemoLINQToObjectModelClass.dll
+D:\Class\SU25\PRN212\Code\PRN212-SE1848\DemoLINQToObjectModelClass\obj\Debug\net9.0\DemoLINQToObjectModelClass.pdb
+D:\Class\SU25\PRN212\Code\PRN212-SE1848\DemoLINQToObjectModelClass\obj\Debug\net9.0\DemoLINQToObjectModelClass.genruntimeconfig.cache
+D:\Class\SU25\PRN212\Code\PRN212-SE1848\DemoLINQToObjectModelClass\obj\Debug\net9.0\ref\DemoLINQToObjectModelClass.dll
